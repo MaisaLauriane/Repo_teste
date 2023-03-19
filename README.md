@@ -1,1 +1,5 @@
-# Repo_teste
+# Repositório de Técnicas de Programação 1
+
+- Git
+- Numpy
+- Pandas
